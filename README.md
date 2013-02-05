@@ -1,0 +1,4 @@
+xbrlparser
+==========
+
+XBRL parser
